@@ -20,7 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    
+    // git demo
 
     NSString *content = @"南京#1#上海#2#四川#3#西安哈哈哈#1#乌鲁木齐#2#哈尔滨";
 //    NSDictionary *attrs = @{NSFontAttributeName : [UIFont systemFontOfSize:12]};
