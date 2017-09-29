@@ -43,7 +43,8 @@
 }
 
 - (void)configView {
-
+    // 注释一下 first
+    
 }
 
 - (void)didReceiveMemoryWarning {
