@@ -45,7 +45,7 @@
 - (void)configView {
     // 注释一下 first
     UIView *bgView = [UIView new];
-    
+    [self.view addSubview:bgView];
 }
 
 - (void)didReceiveMemoryWarning {
